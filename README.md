@@ -1,10 +1,12 @@
-# ferris wheeeeeeeeeel
+# ferris dvd
 
-animated ferris!
+animated dvd ferris!
 
-## Usage
 
-Open the website and pass the query param `?speed=n` where `n` is the number of seconds for a full rotation to complete. So, the higher the number, the slower the animation.
+## Source
+
+Most of the credit goes to this: https://codepen.io/stezu/pen/DyGWrV
+
 
 ## Development
 
