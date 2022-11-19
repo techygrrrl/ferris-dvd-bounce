@@ -2,7 +2,7 @@ import './style.css'
 
 $(document).ready(function () {
   $(".marquee").marqueeify({
-    speed: 200,
+    speed: 100,
     bumpEdge: function () {
       var randomColorInt = Math.floor(Math.random() * 360)
       var newColor = "hsl(" + randomColorInt + ", 100%, 50%)";
